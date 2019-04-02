@@ -48,9 +48,9 @@ Enjoy :)
 
 * [food2fork](https://www.food2fork.com/) - API for recipe data
 * [Axios](https://github.com/axios/axios/) - Promise based HTTP client for the browser and node.js
+* HTML5
 * CSS3
 * JavaScript
-* HTML5
 
 ## Contributors ##
 
