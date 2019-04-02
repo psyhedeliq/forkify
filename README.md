@@ -2,7 +2,7 @@
 
 Forkify
 
-This is a web application for people passionate abour cooking to search their favorite recipes. 
+This is a web application for people passionate about cooking to search their favorite recipes. 
 
 ## Getting Started ##
 
